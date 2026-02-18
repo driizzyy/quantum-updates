@@ -1,12 +1,12 @@
 {
   "hub": {
-    "version": "2.0.0",
+    "version": "1.2.0",
     "download_url": "https://github.com/driizzyy/quantum-updates/releases/download/v2.0.0/QuantumHub.exe",
     "changelog": ""
   },
   "games": {
-    "fivem":     { "version": "1.0.0", "changelog": "" },
-    "roblox":    { "version": "1.0.0", "changelog": "" },
-    "minecraft": { "version": "1.0.0", "changelog": "" }
+    "fivem":     { "version": "1.0.0", "changelog": "Initial Release" },
+    "roblox":    { "version": "1.0.0", "changelog": "SOON" },
+    "minecraft": { "version": "1.0.0", "changelog": "SOON" }
   }
 }
