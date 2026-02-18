@@ -3,7 +3,7 @@
     "fivem": {
       "changelog": "Overlay fix",
       "status": "active",
-      "version": "2.1"
+      "version": "1.2"
     },
     "minecraft": {
       "changelog": "",
@@ -18,7 +18,7 @@
   },
   "hub": {
     "changelog": "Full UI Fix and added Roblox Cheat",
-    "download_url": "https://github.com/driizzyy/quantum-updates/releases/download/v3.0.0/QuantumHub.exe",
-    "version": "3.0.0"
+    "download_url": "https://github.com/driizzyy/quantum-updates/releases/download/v1.0.0/QuantumHub.exe",
+    "version": "1.0.0"
   }
 }
