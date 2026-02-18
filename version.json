@@ -1,12 +1,24 @@
 {
-  "hub": {
-    "version": "2.6.0",
-    "download_url": "https://github.com/driizzyy/quantum-updates/releases/download/v2.6.0/QuantumHub.exe",
-    "changelog": "Added update section"
-  },
   "games": {
-    "fivem":     { "version": "2.1", "status": "active",      "changelog": "Overlay fix" },
-    "roblox":    { "version": "1.0", "status": "updating",    "changelog": "" },
-    "minecraft": { "version": "1.0", "status": "coming_soon", "changelog": "" }
+    "fivem": {
+      "changelog": "Overlay fix",
+      "status": "active",
+      "version": "2.1"
+    },
+    "minecraft": {
+      "changelog": "",
+      "status": "coming_soon",
+      "version": "1.0"
+    },
+    "roblox": {
+      "changelog": "",
+      "status": "maintenance",
+      "version": "1.0"
+    }
+  },
+  "hub": {
+    "changelog": "Added update section",
+    "download_url": "https://github.com/driizzyy/quantum-updates/releases/download/v2.6.0/QuantumHub.exe",
+    "version": "2.6.0"
   }
 }
