@@ -17,8 +17,8 @@
     }
   },
   "hub": {
-    "changelog": "Added update section",
-    "download_url": "https://github.com/driizzyy/quantum-updates/releases/download/v2.6.0/QuantumHub.exe",
-    "version": "2.6.0"
+    "changelog": "Full UI Fix and added Roblox Cheat",
+    "download_url": "https://github.com/driizzyy/quantum-updates/releases/download/v3.0.0/QuantumHub.exe",
+    "version": "3.0.0"
   }
 }
