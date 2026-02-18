@@ -5,7 +5,7 @@
     "changelog": "Added update section"
   },
   "games": {
-    "fivem":     { "version": "1.0.0", "changelog": "Initial Release" },
+    "fivem":     { "version": "1.2.0", "changelog": "Fixed overlay bug" },
     "roblox":    { "version": "1.0.0", "changelog": "SOON" },
     "minecraft": { "version": "1.0.0", "changelog": "SOON" }
   }
