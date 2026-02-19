@@ -17,8 +17,8 @@
                              }
               },
     "hub":  {
-                "changelog":  "UI enhancements",
-                "download_url":  "https://github.com/driizzyy/quantum-updates/releases/download/v1.5.0/QuantumHub.exe",
-                "version":  "1.5.0"
+                "changelog":  "UI Overhaul, minor bug fixes, Discord RPC, and update manager fix.",
+                "download_url":  "https://github.com/driizzyy/quantum-updates/releases/download/v1.5.1/QuantumHub.exe",
+                "version":  "1.5.1"
             }
 }
