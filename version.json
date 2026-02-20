@@ -10,8 +10,8 @@
             "status": "active",
             "version": "1.0"
         },
-        "discord_tools": {
-            "changelog": "Initial release - Discord Token Checker",
+        "discord_token_lookup": {
+            "changelog": "Initial release - Discord Token Lookup",
             "status": "active",
             "version": "1.0"
         },
@@ -37,8 +37,8 @@
         }
     },
     "hub": {
-        "changelog": "Added Discord Tools (Token Checker) under Tools tab, moved Join Discord to Settings, minor UI enhancements.",
-        "download_url": "https://github.com/driizzyy/quantum-updates/releases/download/v1.5.3/QuantumHub.exe",
-        "version": "1.5.3"
+        "changelog": "Added Discord tab with Token Lookup tool, moved Join Discord to Settings, minor UI enhancements.",
+        "download_url": "https://github.com/driizzyy/quantum-updates/releases/download/v1.5.4/QuantumHub.exe",
+        "version": "1.5.4"
     }
 }
