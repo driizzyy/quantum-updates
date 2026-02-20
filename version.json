@@ -38,7 +38,7 @@
     },
     "hub": {
         "changelog": "Added Discord Tools (Token Checker) under Tools tab, moved Join Discord to Settings, minor UI enhancements.",
-        "download_url": "https://github.com/driizzyy/quantum-updates/releases/download/v1.5.4/QuantumHub.exe",
-        "version": "1.5.4"
+        "download_url": "https://github.com/driizzyy/quantum-updates/releases/download/v1.5.3/QuantumHub.exe",
+        "version": "1.5.3"
     }
 }
