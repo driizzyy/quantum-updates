@@ -1,44 +1,44 @@
 {
-  "games": {
-    "discord_token_lookup": {
-      "changelog": "Initial release - Discord Token Lookup",
-      "status": "updating",
-      "version": "1.0"
-    },
-    "fivem": {
-      "changelog": "Overlay fix",
-      "status": "updating",
-      "version": "1.2"
-    },
-    "hwid_spoofer": {
-      "changelog": "Initial release - HWID spoofing and AC trace cleaning",
-      "status": "active",
-      "version": "1.0"
-    },
-    "minecraft": {
-      "changelog": "",
-      "status": "coming_soon",
-      "version": "1.0"
-    },
-    "r6s": {
-      "changelog": "",
-      "status": "coming_soon",
-      "version": "1.0"
-    },
-    "roblox": {
-      "changelog": "",
-      "status": "updating",
-      "version": "1.0"
-    },
-    "rust": {
-      "changelog": "",
-      "status": "coming_soon",
-      "version": "1.0"
-    }
-  },
-  "hub": {
-    "changelog": "Added Discord Tools tab + Discord Token Checker Tool",
-    "download_url": "https://github.com/driizzyy/quantum-updates/releases/download/v1.5.4/QuantumHub.exe",
-    "version": "1.5.4"
-  }
+    "games":  {
+                  "discord_token_lookup":  {
+                                               "changelog":  "Initial release - Discord Token Lookup",
+                                               "status":  "updating",
+                                               "version":  "1.0"
+                                           },
+                  "fivem":  {
+                                "changelog":  "Overlay fix",
+                                "status":  "updating",
+                                "version":  "1.2"
+                            },
+                  "hwid_spoofer":  {
+                                       "changelog":  "Initial release - HWID spoofing and AC trace cleaning",
+                                       "status":  "active",
+                                       "version":  "1.0"
+                                   },
+                  "minecraft":  {
+                                    "changelog":  "",
+                                    "status":  "coming_soon",
+                                    "version":  "1.0"
+                                },
+                  "r6s":  {
+                              "changelog":  "",
+                              "status":  "coming_soon",
+                              "version":  "1.0"
+                          },
+                  "roblox":  {
+                                 "changelog":  "",
+                                 "status":  "updating",
+                                 "version":  "1.0"
+                             },
+                  "rust":  {
+                               "changelog":  "",
+                               "status":  "coming_soon",
+                               "version":  "1.0"
+                           }
+              },
+    "hub":  {
+                "changelog":  "Added Partners tab",
+                "download_url":  "https://github.com/driizzyy/quantum-updates/releases/download/v1.5.5/QuantumHub.exe",
+                "version":  "1.5.5"
+            }
 }
