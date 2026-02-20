@@ -1,34 +1,34 @@
 {
-    "games":  {
-                  "fivem":  {
-                                "changelog":  "Overlay fix",
-                                "status":  "active",
-                                "version":  "1.2"
-                            },
-                  "minecraft":  {
-                                    "changelog":  "",
-                                    "status":  "coming_soon",
-                                    "version":  "1.0"
-                                },
-                  "roblox":  {
-                                 "changelog":  "",
-                                 "status":  "maintenance",
-                                 "version":  "1.0"
-                             },
-                  "rust":  {
-                               "version":  "1.0",
-                               "status":  "coming_soon",
-                               "changelog":  ""
-                           },
-                  "r6s":  {
-                              "version":  "1.0",
-                              "status":  "coming_soon",
-                              "changelog":  ""
-                          }
-              },
-    "hub":  {
-                "changelog":  "Added R6S and Rust coming soon, minor bug fixes, and some small UI enhancements.",
-                "download_url":  "https://github.com/driizzyy/quantum-updates/releases/download/v1.5.2/QuantumHub.exe",
-                "version":  "1.5.2"
-            }
+  "games": {
+    "fivem": {
+      "changelog": "Overlay fix",
+      "status": "active",
+      "version": "1.2"
+    },
+    "minecraft": {
+      "changelog": "",
+      "status": "coming_soon",
+      "version": "1.0"
+    },
+    "r6s": {
+      "changelog": "",
+      "status": "coming_soon",
+      "version": "1.0"
+    },
+    "roblox": {
+      "changelog": "",
+      "status": "active",
+      "version": "1.0"
+    },
+    "rust": {
+      "changelog": "",
+      "status": "coming_soon",
+      "version": "1.0"
+    }
+  },
+  "hub": {
+    "changelog": "Added R6S and Rust coming soon, minor bug fixes, and some small UI enhancements.",
+    "download_url": "https://github.com/driizzyy/quantum-updates/releases/download/v1.5.2/QuantumHub.exe",
+    "version": "1.5.2"
+  }
 }
