@@ -2,7 +2,7 @@
   "games": {
     "discord_token_lookup": {
       "changelog": "Initial release - Discord Token Lookup",
-      "status": "active",
+      "status": "updating",
       "version": "1.0"
     },
     "fivem": {
