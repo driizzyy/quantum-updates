@@ -27,8 +27,8 @@
                           }
               },
     "hub":  {
-                "changelog":  "UI Overhaul, minor bug fixes, Discord RPC, and update manager fix.",
-                "download_url":  "https://github.com/driizzyy/quantum-updates/releases/download/v1.5.1/QuantumHub.exe",
-                "version":  "1.5.1"
+                "changelog":  "Added R6S and Rust coming soon, minor bug fixes, and some small UI enhancements.",
+                "download_url":  "https://github.com/driizzyy/quantum-updates/releases/download/v1.5.2/QuantumHub.exe",
+                "version":  "1.5.2"
             }
 }
