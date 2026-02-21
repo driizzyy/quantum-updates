@@ -12,7 +12,7 @@
     },
     "hwid_spoofer": {
       "changelog": "Initial release - HWID spoofing and AC trace cleaning",
-      "status": "active",
+      "status": "maintenance",
       "version": "1.0"
     },
     "minecraft": {
