@@ -38,7 +38,7 @@
               },
     "hub":  {
                 "changelog":  "Added HWID reset via settings tab every 72 hours + Improved UI with added animations configurable via settings + improvements to partnership tabs + Discord RPC updated to be more informative.",
-                "download_url":  "https://github.com/driizzyy/quantum-updates/releases/download/v1.5.7/QuantumHub.exe",
-                "version":  "1.5.7"
+                "download_url":  "https://github.com/driizzyy/quantum-updates/releases/download/v1.5.8/QuantumHub.exe",
+                "version":  "1.5.8"
             }
 }
